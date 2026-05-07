@@ -1,0 +1,8 @@
+flask
+flask-cors
+scapy
+pywifi
+pandas
+matplotlib
+requests
+speedtest-cli
